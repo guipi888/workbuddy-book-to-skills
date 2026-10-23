@@ -62,6 +62,10 @@ scripts/extract_pdf.py
 | 🐙 GitHub | [guipi888](https://github.com/guipi888) |
 | 💬 微信 | guipi996（注明来意）|
 
+## 相关项目
+
+- [video-skill-router](https://github.com/guipi888/video-skill-router) — 视频创作技能路由器：AI video / animation skill 元技能，判定视频类别（商业宣传/知识科普/其他）→ 自动发现并安装 Manim/Remotion/Lottie 等技能包 → 编排执行输出成片。电子书拆解出的技能想变成视频？video-skill-router 一条龙完成找技能→装技能→出片
+
 ## License
 
 MIT License — 详见 [LICENSE](./LICENSE)
